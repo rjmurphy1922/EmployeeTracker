@@ -34,7 +34,7 @@
   ## Video of Application Running
   https://drive.google.com/file/d/1T7nRJPTu7MOZgo1P9SEZtzUxLPvN9Djw/view
   
-  ## Image ![Alt text](users/ryan/code-homework/EmployeeTracker/team.html "EmployeeTracker")
+  ## Image ![Alt text](team.html)
   
   
 
