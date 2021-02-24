@@ -8,11 +8,11 @@ class Employee {
       this.email = email;
     }
 
-        getname(){
+        getName(){
             return this.name;
         }
 
-        getID(){
+        getId(){
             return this.id;
         }
 
