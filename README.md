@@ -34,7 +34,7 @@
   ## Video of Application Running
   https://drive.google.com/file/d/1T7nRJPTu7MOZgo1P9SEZtzUxLPvN9Djw/view
   
-  ## Image ![Alt text](team.html)
+  ## Image ![Alt text]![alt text](https://github.com/[rjmurphy1922]/[EmployeeTracker]/blob/[main]/image.png?raw=true)
   
   
 
