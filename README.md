@@ -31,10 +31,10 @@
   ## Testing Information
   No Testing information
   
-  ##Video of Application Running
+  ## Video of Application Running
   https://drive.google.com/file/d/1T7nRJPTu7MOZgo1P9SEZtzUxLPvN9Djw/view
   
-  ![Alt text](team.html "EmployeeTracker")
+  ## Image ![Alt text](users/ryan/code-homework/EmployeeTracker/team.html "EmployeeTracker")
   
   
 
